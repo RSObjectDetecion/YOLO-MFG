@@ -3,7 +3,7 @@ This repository contains the average result of multiple runs(including confidenc
 
 multiple runs:
 
-To ensure the reliability of the experimental results, we have selected five random seeds (42, 2025, 3047, 2003, 2024) and conducted two runs for each seed. As shown, the proposed model achieved an average mAP₅₀ of 81.69 ± 0.13, with the best result reaching 81.7.
+To ensure the reliability of the experimental results, we have selected five random seeds (42, 2025, 3047, 2003, 2024) and conducted two runs for each seed. As shown, the proposed model achieved an average mAP₅₀ of 81.69 ± 0.13, with the best result reaching 81.9.
 <p align="center">
 <img width="325" height="455" alt="multi runs" src="https://github.com/user-attachments/assets/5187230e-f911-4223-8577-75f73ffe9739" />
 </p>
